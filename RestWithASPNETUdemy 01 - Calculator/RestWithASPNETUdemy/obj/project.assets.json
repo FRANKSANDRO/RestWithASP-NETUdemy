@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Enterprise\\Treinamento\\Udemy\\2020\\REST-ASP.NET\\ProjetoAulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectUniqueName": "C:\\Enterprise\\Treinamento\\Udemy\\2020\\REST-ASP.NET\\ProjetoAulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "projectName": "RestWithASPNETUdemy",
-      "projectPath": "C:\\Enterprise\\Treinamento\\Udemy\\2020\\REST-ASP.NET\\ProjetoAulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectPath": "C:\\Enterprise\\Treinamento\\Udemy\\2020\\REST-ASP.NET\\ProjetoAulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "packagesPath": "C:\\Users\\Franksandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Enterprise\\Treinamento\\Udemy\\2020\\REST-ASP.NET\\ProjetoAulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
+      "outputPath": "C:\\Enterprise\\Treinamento\\Udemy\\2020\\REST-ASP.NET\\ProjetoAulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
