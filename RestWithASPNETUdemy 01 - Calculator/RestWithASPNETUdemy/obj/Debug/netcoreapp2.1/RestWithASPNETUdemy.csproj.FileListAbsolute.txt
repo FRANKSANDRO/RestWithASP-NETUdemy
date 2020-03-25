@@ -1,0 +1,14 @@
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.deps.json
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.json
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.runtimeconfig.dev.json
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\bin\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csprojAssemblyReference.cache
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.csproj.CoreCompileInputs.cache
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cache
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorAssemblyInfo.cs
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfoInputs.cache
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.AssemblyInfo.cs
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.RazorTargetAssemblyInfo.cache
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.dll
+C:\Enterprise\Treinamento\Udemy\2020\REST-ASP.NET\ProjetoAulas\RestWithASP-NETUdemy\RestWithASPNETUdemy\RestWithASPNETUdemy\obj\Debug\netcoreapp2.1\RestWithASPNETUdemy.pdb
