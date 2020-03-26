@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RestWithASPNETUdemy.Model;
-using RestWithASPNETUdemy.Services;
+using RestWithASPNETUdemy.Business;
 using System.Collections.Generic;
 
 namespace RestWithASPNETUdemy.Controllers
@@ -11,25 +11,25 @@ namespace RestWithASPNETUdemy.Controllers
     [ApiController]
     public class PersonsController : ControllerBase
     {
-        private IPersonService _personService;
+        private IPersonBusiness _personBusiness;
 
-        public PersonsController(IPersonService personService)
+        public PersonsController(IPersonBusiness personService)
         {
-            _personService = personService;
+            _personBusiness = personService;
         }
 
         // GET api/values
-        [HttpGet]
+        [HttpGet("v1")]
         public ActionResult<List<Persons>> Get()
         {
-            return Ok(_personService.FindAll());
+            return Ok(_personBusiness.FindAll());
         }
 
         // GET api/values/5
-        [HttpGet("{id}")]
+        [HttpGet("v1/{id}")]
         public ActionResult<Persons> Get(long id)
         {
-            var person = _personService.FindById(id);
+            var person = _personBusiness.FindById(id);
             if (person == null)
             {
                 return NotFound();
@@ -39,7 +39,7 @@ namespace RestWithASPNETUdemy.Controllers
         }
 
         // POST api/values
-        [HttpPost]
+        [HttpPost("v1")]
         public IActionResult Post([FromBody] Persons person)
         {           
             if (person == null)
@@ -47,11 +47,11 @@ namespace RestWithASPNETUdemy.Controllers
                 return BadRequest();
             }
 
-            return new ObjectResult(_personService.Create(person));
+            return new ObjectResult(_personBusiness.Create(person));
         }
 
         // PUT api/values/5
-        [HttpPut("{id}")]
+        [HttpPut("v1")]
         public IActionResult Put([FromBody] Persons person)
         {
             if (person == null)
@@ -59,14 +59,14 @@ namespace RestWithASPNETUdemy.Controllers
                 return BadRequest();
             }
 
-            return new ObjectResult(_personService.Update(person));
+            return new ObjectResult(_personBusiness.Update(person));
         }
 
         // DELETE api/values/5
-        [HttpDelete("{id}")]
+        [HttpDelete("v1/{id}")]
         public IActionResult Delete(long id)
         {
-            _personService.Delete(id);
+            _personBusiness.Delete(id);
 
             return NoContent();
         }
