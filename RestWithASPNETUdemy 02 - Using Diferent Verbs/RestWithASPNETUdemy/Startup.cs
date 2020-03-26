@@ -34,6 +34,8 @@ namespace RestWithASPNETUdemy
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
+            services.AddApiVersioning();
+
             //DI
             services.AddScoped<IPersonService, PersonServiceImpl>();
         }
